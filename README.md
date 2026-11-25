@@ -8,7 +8,7 @@
 I wanted to build a project using what I learned in HTML and CSS.
 I haven't used JavaScript yet because I haven't learned it yet.
 
-## Screenshots
+## Screen Recording
 
 [![Watch the video](https://github.com/user-attachments/assets/5a2be4fb-9dd0-470e-a31a-a3df8e7a001b)](https://github.com/user-attachments/assets/5a2be4fb-9dd0-470e-a31a-a3df8e7a001b)
 
