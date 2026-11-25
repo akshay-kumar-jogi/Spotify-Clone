@@ -10,7 +10,8 @@ I haven't used JavaScript yet because I haven't learned it yet.
 
 ## Screenshots
 
-![image alt](https://github.com/user-attachments/assets/51658f9b-9f30-4dc6-b77b-ff9009b35bd4)
+[![Watch the video](https://github.com/user-attachments/assets/5a2be4fb-9dd0-470e-a31a-a3df8e7a001b)](https://github.com/user-attachments/assets/5a2be4fb-9dd0-470e-a31a-a3df8e7a001b)
+
 
 ## 🔍 What I Focused On
 - 🏗️ **Structure** — Clean, semantic HTML from scratch
