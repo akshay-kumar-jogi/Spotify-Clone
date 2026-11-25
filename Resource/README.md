@@ -8,9 +8,10 @@
 I wanted to build a project using what I learned in HTML and CSS.
 I haven't used JavaScript yet because I haven't learned it yet.
 
-## Screenshots
+## Screen Recording
 
-![image alt](https://github.com/akshay-jogi/Spotify-Clone/blob/b8194b97ee52c27ba30849c017425b32d6332df2/Spotify%20Clone.PNG)
+[![Watch the video](https://github.com/user-attachments/assets/5a2be4fb-9dd0-470e-a31a-a3df8e7a001b)](https://github.com/user-attachments/assets/5a2be4fb-9dd0-470e-a31a-a3df8e7a001b)
+
 
 ## 🔍 What I Focused On
 - 🏗️ **Structure** — Clean, semantic HTML from scratch
