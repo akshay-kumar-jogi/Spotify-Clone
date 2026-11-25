@@ -10,7 +10,7 @@ I haven't used JavaScript yet because I haven't learned it yet.
 
 ## Screenshots
 
-![image alt](https://github.com/akshay-jogi/Spotify-Clone/blob/b8194b97ee52c27ba30849c017425b32d6332df2/Spotify%20Clone.PNG)
+![image alt](https://github.com/user-attachments/assets/51658f9b-9f30-4dc6-b77b-ff9009b35bd4)
 
 ## 🔍 What I Focused On
 - 🏗️ **Structure** — Clean, semantic HTML from scratch
